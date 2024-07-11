@@ -1,4 +1,5 @@
 # Week 2
+ - ```git clone https://github.com/Daniel20010822/2024-Summer-Training-Week2.git``` to download the repository
  - Run ```./gen_golden_ans case<num>.txt``` to see the golden answer
  - Run ```make check_ans``` to check the correctness of your code, remember to compile your code first!
  - You can create your own testcase in ```testcase/``` folder, naming ```case<num>.txt```
