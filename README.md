@@ -26,19 +26,19 @@
 ## Binary Search Tree (BST)
 |Command|Description|Notes|
 |-------|-----------|-----|
-|i val|Insert value "val" into BST||
+|i val|Insert value "val" into BST|No cout|
 |s val|Search value "val" in BST||
 |p|Inorder traverse the BST and print out the result||
 |m|Print out Min and Max values||
 |r low high|Print out all the values within [low,high]||
-|t|Show the tree structure of the BST|Debug purpose, there is no 't' in testcase|
+|t|Show the tree structure of the BST|Debug purpose, feel free to try it out|
 
 ## Linked List (LL)
 |Command|Description|Notes|
 |-------|-----------|-----|
-|b val|Insert value "val" at the beginning of the list||
-|e val|Insert value "val" at the end of the list||
+|b val|Insert value "val" at the beginning of the list|No cout|
+|e val|Insert value "val" at the end of the list|No cout|
 |p|Print out the list||
-|d val|Delete an element by value "val"||
-|r|Reverse the list||
-|c|Remove repeated numbers in the list||
+|d val|Delete an element by value "val"|No cout|
+|r|Reverse the list|No cout|
+|c|Remove repeated numbers in the list|No cout|
