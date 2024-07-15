@@ -43,3 +43,6 @@
 |d val|Delete an element by value "val"|No cout|
 |r|Reverse the list|No cout|
 |c|Remove repeated numbers in the list|No cout|
+
+## Big thanks to @coherent17 for sharing his Makefile template!
+ - [Coherent17 GitHub](https://github.com/coherent17)
